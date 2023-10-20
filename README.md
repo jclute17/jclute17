@@ -1,16 +1,15 @@
-### Hi there 👋
+## About Me
+My name is Jay!  I am a recent graduate of Towson University pursuing a career in Data Analytics!  I have a degree in Computer Science with a track in Cyber Security, but I also have a Data Analytics Certificate through Google and a Business Analytics Certificate through Johns Hopkins!  My dream job would be one in Investment Banking; I have a passion for the stock market and even wrote my own Algorithmic Trading Bot in python!  Below are some of my other interests!
 
-<!--
-**jclute17/jclute17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>My Top Interests!</summary>
 
-Here are some ideas to get you started:
+| Rank |   Interests!  |
+|-----:|---------------|
+|     1| Stock Market  |
+|     2| Hockey        |
+|     3| Football      |
+|     4| Fantasy Books |
+|     5| Sushi!        |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
