@@ -19,3 +19,5 @@ My name is Jay!  I am a recent graduate of Towson University pursuing a career i
 
 </details>
 
+If you are interested in seeing a case study I did using R and R Markdown, please click on the BellabeatCaseStudy.md file.  If you'd like to see a case study I did on Economic Analysis using python and pandas, please click on Economic-Analysis1.ipynb!
+
